@@ -5,7 +5,7 @@ const https = require('https');
 const app = express();
 
 const CF_WORKER_URLS = [
-    "https://web-itto.myproxy0108.workers.dev/",
+    "https://ito.myproxy0108.workers.dev",
     "https://ito.nemu0001.workers.dev/"
 ];
 
